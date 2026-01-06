@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+bash infra/add-branch-prefix.sh "$1"
